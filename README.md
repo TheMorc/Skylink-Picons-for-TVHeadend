@@ -1,2 +1,4 @@
-# TVHeadend-CZ-SK-Picons
-just a test, likely to be deleted soon
+# CZ&SK Channel Icons for TVHeadend. 
+I amateoury made this pack of icons for TVH.
+It will be updated sometimes. Just don't ask for ETA.
+
